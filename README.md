@@ -4,7 +4,7 @@ An environment for newbie GitHub collaborators to learn to work as a team.
 
 ## Instructions
 
-Before you start working on this project you'll have to install [git](https://git-scm.com/)
+Before you start working on this project you'll have to install [git](https://git-scm.com/).
 
 To start working on this project, follow these steps:
 
