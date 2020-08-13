@@ -8,7 +8,7 @@ Before you start working on this project you'll have to install [git](https://gi
 
 To start working on this project, follow these steps:
 
-* Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+* Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account. ![fork](/DocResources/fork.png)
 
 * Clone the repository you just forked.
 
