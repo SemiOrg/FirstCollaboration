@@ -2,6 +2,8 @@
 
 An environment for newbie GitHub collaborators to learn to work as a team.
 
+Find us Here: https://gitter.im/FCC_OPEN_SOURCE/community
+
 ## Instructions
 
 Before you start working on this project you'll have to install [git](https://git-scm.com/).
