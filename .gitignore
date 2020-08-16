@@ -1,0 +1,6 @@
+# Env Files
+.env
+
+# For builds
+builds/
+out/
